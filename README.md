@@ -24,7 +24,7 @@ Simulation results of periodic social distancing relaxation policies, and their 
 
 ## Different Rates
 
-Reproduction of the results for different $\beta_n/\beta_d$ has been illustrated in the notebook `DiffBeta.ipynb`.
+Reproduction of the results with different contact rates of social distancing has been illustrated in the notebook `DiffBeta.ipynb`.
 
 ## Senstivity Analysis
 

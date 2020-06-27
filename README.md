@@ -1,6 +1,6 @@
 # Universal Features of Epidemic Models
 
-This repository is dedicated to the numerical simulations of [the bioRxiv article](https://www.biorxiv.org/content/10.1101/2020.06.21.163931v1.full.pdf+html): 
+This repository is dedicated to the numerical simulations used in the [the bioRxiv article](https://www.biorxiv.org/content/10.1101/2020.06.21.163931v1.full.pdf+html): 
 
 doi: https://doi.org/10.1101/2020.06.21.163931.
 

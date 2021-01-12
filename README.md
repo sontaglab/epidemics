@@ -27,5 +27,4 @@ Simulation results of periodic social distancing relaxation policies, and their 
 Reproduction of the results with different contact rates of social distancing has been illustrated in the notebook `DiffBeta.ipynb`.
 
 ## Senstivity Analysis
-
-This part is under review.
+`diff_sensitivity.html` is dedicated to the senstivity analysis of phase transition analysis.
